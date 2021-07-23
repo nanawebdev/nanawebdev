@@ -1,13 +1,13 @@
 ### Hello my friends and also new friends 👋, I'm Anna
 
-## I'm Junior Front-end developer
+## Junior Front-end developer
 
 - :octocat: I like writing code
-- :airplane: I adore different activity and travalling
-- :school_satchel: I constantly learning and reading
-- :computer: I would like working and parallel learning JS and React
+- :airplane: I adore different activities and traveling
+- :school_satchel: I constantly learn and read
+- :computer: I would like to work and learn new tech in parallel
 
-- :sparkles: Little fact: My new hobby is drawing by CSS
+- :sparkles: Little fact: My new hobby is drawing with CSS
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nanawebdev&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/nanawebdev/)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanawebdev&theme=dark&langs_count=8&layout=compact)](https://github.com/nanawebdev/)
@@ -25,7 +25,6 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-090909?style=for-the-badge&logo=ESLint)
 ![Leaflet](https://img.shields.io/badge/-Leaflet-090909?style=for-the-badge&logo=Leaflet)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-
 
 ### Connect with me:
 [![Instagram](https://img.shields.io/badge/-instagram-090909?style=for-the-badge&logo=instagram)](https://www.instagram.com/anna.web.dev)
